@@ -14,6 +14,8 @@
 - 🌱 Currently studying front end technologies 
 - ⚡ Fun fact: Kinda like the space
 
+---
+
 <p align="center">
   <img alt="space" src="img/favicon.png" width="35%" height="35%">
 </p>
