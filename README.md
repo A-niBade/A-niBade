@@ -11,7 +11,7 @@
 
 - 💻 A computer science student 
 - ⚙️ Tech and Web enthusiast
-- 🌱 Currently studying front end technologies 
+- 🌱 Currently studying in order to strengthen my knoledge
 - ⚡ Fun fact: Kinda like the space
 
 ---
