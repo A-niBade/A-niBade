@@ -12,6 +12,6 @@
 - 💻 A computer science student 
 - ⚙️ Tech and Web enthusiast
 - 🌱 Currently studying in order to strengthen my knowledge
-- ⚡ Fun fact: Kinda like the space
+- 🚀 Fun fact: Kinda like the space 
 
 ---
